@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.0.0.0">
+  <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+  <Modules>
+    <Module>
+      <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>ForEditor</ModuleName>
+      <Files>
+        <File uid="1" fullPath="C:\Users\badmu\Documents\Unity_Projects\PEKE\LeVRnPotentialAndKineticEnergy\Assets\Scripts\Editor\MultiStepChecker.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+          <FullName>MultiStepChecker</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="0" nPathComplexity="0" sequenceCoverage="62.5" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="62.5" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>static System.Boolean MultiStepChecker::IsHolderPresent(System.Boolean)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="1" ordinal="0" offset="0" sl="9" sc="5" el="9" ec="5" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="2" ordinal="0" offset="1" sl="10" sc="9" el="10" ec="9" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="3" ordinal="0" offset="7" sl="11" sc="9" el="11" ec="9" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="4" ordinal="0" offset="20" sl="12" sc="9" el="12" ec="9" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="5" ordinal="0" offset="21" sl="13" sc="13" el="13" ec="13" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="6" ordinal="0" offset="24" sl="14" sc="9" el="14" ec="9" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="7" ordinal="0" offset="25" sl="15" sc="9" el="15" ec="9" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="8" ordinal="0" offset="29" sl="16" sc="5" el="16" ec="5" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module>
+      <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>Tests</ModuleName>
+      <Files>
+        <File uid="2" fullPath="C:\Users\badmu\Documents\Unity_Projects\PEKE\LeVRnPotentialAndKineticEnergy\Assets\Tests\DraggableTestScript.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+          <FullName>Tests.DraggableTestScript</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="0" nPathComplexity="0" sequenceCoverage="100.0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="100.0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void Tests.DraggableTestScript::Draggable_Holder_Presence_Test()</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="9" ordinal="0" offset="0" sl="13" sc="9" el="13" ec="9" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="10" ordinal="0" offset="1" sl="14" sc="13" el="14" ec="13" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="11" ordinal="0" offset="8" sl="16" sc="13" el="16" ec="13" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="12" ordinal="0" offset="26" sl="17" sc="9" el="17" ec="9" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="0" nPathComplexity="0" sequenceCoverage="100.0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="100.0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void Tests.DraggableTestScript::Check_Holder_Object()</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="13" ordinal="0" offset="0" sl="21" sc="9" el="21" ec="9" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="14" ordinal="0" offset="1" sl="22" sc="13" el="22" ec="13" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="15" ordinal="0" offset="7" sl="24" sc="13" el="24" ec="13" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="16" ordinal="0" offset="14" sl="25" sc="9" el="25" ec="9" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+  </Modules>
+</CoverageSession>

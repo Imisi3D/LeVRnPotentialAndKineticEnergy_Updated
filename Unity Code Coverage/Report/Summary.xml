@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>3/25/2020 - 5:46:33 PM</Generatedon>
+    <Parser>MultiReportParser (4x CoberturaParser, 1x OpenCoverParser)</Parser>
+    <Assemblies>2</Assemblies>
+    <Classes>2</Classes>
+    <Files>2</Files>
+    <Coveredlines>13</Coveredlines>
+    <Uncoveredlines>3</Uncoveredlines>
+    <Coverablelines>16</Coverablelines>
+    <Totallines>52</Totallines>
+    <Linecoverage>81.2</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+  </Summary>
+  <Coverage>
+    <Assembly name="ForEditor" classes="1" coverage="62.5" coveredlines="5" coverablelines="8" totallines="25" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="MultiStepChecker" coverage="62.5" coveredlines="5" coverablelines="8" totallines="25" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+    <Assembly name="Tests" classes="1" coverage="100" coveredlines="8" coverablelines="8" totallines="27" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="Tests.DraggableTestScript" coverage="100" coveredlines="8" coverablelines="8" totallines="27" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>

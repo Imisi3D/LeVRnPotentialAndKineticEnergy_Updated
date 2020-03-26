@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2020-03-25_17-43-01" tag="">
+  <assembly name="ForEditor">
+    <class name="MultiStepChecker" coveredlines="5" coverablelines="8" totallines="32" coveredbranches="0" totalbranches="0" />
+    <class name="MultiStepInteraction" coveredlines="0" coverablelines="4" totallines="32" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="Tests">
+    <class name="Tests.DraggableTestScript" coveredlines="8" coverablelines="8" totallines="27" coveredbranches="0" totalbranches="0" />
+  </assembly>
+</coverage>
