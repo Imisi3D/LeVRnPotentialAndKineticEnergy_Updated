@@ -1,5 +1,5 @@
 # LeVRnPotentialAndKineticEnergy
-![Test Coverage](https://github.com/Imisi3D/LeVRnPotentialAndKineticEnergy_Updated/raw/master/LeVRnPotentialAndKineticEnergy_Updated/Unity%20Code%20Coverage/Report/badge_linecoverage.png "Unity Test Coverage")
+[![Build Status](https://travis-ci.org/Imisi3D/LeVRnPotentialAndKineticEnergy_Updated.svg?branch=master)](https://travis-ci.org/Imisi3D/LeVRnPotentialAndKineticEnergy_Updated "Travis CI Badge")   ![Test Coverage](https://github.com/Imisi3D/LeVRnPotentialAndKineticEnergy_Updated/raw/master/LeVRnPotentialAndKineticEnergy_Updated/Unity%20Code%20Coverage/Report/badge_linecoverage.png "Unity Test Coverage")
 
 An educational VR project developed to teach Junior Secondary School students about Potential and Kinetic Energy.
 
